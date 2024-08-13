@@ -1,13 +1,14 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url('img/image.png');
+    background-image: url('/img/image.png');
     background-size: cover;
     background-position: center;
     color: white;
     margin: 0;
     padding: 0;
 }
+
 
 header {
     background-color: rgba(0, 0, 0, 0.7);
